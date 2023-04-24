@@ -1,0 +1,10 @@
+comet_ml==3.32.7
+datasets==2.11.0
+lightning==2.0.1.post0
+matplotlib==3.6.3
+numpy==1.23.5
+PyAudio==0.2.13
+soundfile==0.12.1
+torch==1.11.0+cu113
+torchaudio==0.11.0+cu113
+torchmetrics==0.8.2

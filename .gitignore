@@ -1,0 +1,14 @@
+data
+tb_logs
+.ipynb_checkpoints
+download_dataset.py
+main.py
+*.ckpt
+__pycache__
+my_test.wav
+output.wav
+test.py
+test_augmentation.py
+todo.md
+test1.py
+test2.py
