@@ -1,6 +1,6 @@
 ## Description
 - Simple **acoustic model** for ASR
-- Training model on **LibriSpeech** (WER~30%, CER~10%) or **CommonVoice**
+- Training model on **LibriSpeech** (WER-30%, CER-10%) or **CommonVoice**
 - Automatic logging on server with **CometMl**
 
 ## Installation
